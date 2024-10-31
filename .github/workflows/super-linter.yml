@@ -19,4 +19,4 @@ jobs:
         VALIDATE_ALL_CODEBASE: true
         DEFAULT_BRANCH: main
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        JAVA_FILE_NAME: github/checkstyle.xml. # Update this path if `checkstyle.xml` is not in the root
+        JAVA_FILE_NAME: github/checkstyle.xml. 
