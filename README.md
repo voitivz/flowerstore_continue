@@ -1,2 +1,0 @@
-# flowerstore_continue
-flowerstore_continue implementation
